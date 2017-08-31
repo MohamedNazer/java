@@ -1,6 +1,6 @@
 {
-int a=5,b=6,c;
-c=a+b;
+int a=5,b=6,c=8;
+d=a+b+c;
 system.out.println("the addition of two nos is");
-system.out.println(c);
+system.out.println(d);
 }
